@@ -27,16 +27,28 @@ An intelligent resume screening tool built using Python and Flask. It scans PDF 
 ## 📂 Project Structure
 
 AI_Resume_Scanner_Flask/
+
 ├── app.py # Flask application
+
 ├── templates/
+
 │ └── index.html # Frontend UI
+
 ├── static/
+
 │ └── style.css # Styling (optional)
+
 ├── resumes/ # Uploaded resumes
+
 ├── parsed/ # Parsed results
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
+
 
 🔗 Live Demo
 👉 Click to View the App
+👉 [**Click to View the App**](https://thunderous-crisp-9ed60e.netlify.app/)
+
 
